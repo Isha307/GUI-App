@@ -7,6 +7,7 @@ import os
 #[2]
 
 root = tk.Tk()
+root.title("GUI-App")
 apps = []
 
 #[3]
