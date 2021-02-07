@@ -3,18 +3,18 @@
 
 Description :
 
-An app that lets us auto open up a bunch of other apps that we would normally use. 
+     An app that lets us auto open up a bunch of other apps that we would normally use. 
 
-We can imagine it as being a workspace opener.
+     We can imagine it as being a workspace opener.
 
 Language:
 
-Python
+    Python
 
 Source:
 
-YouTube
+   YouTube
 
 Module:
 
-Tkinter, os
+   Tkinter, os
